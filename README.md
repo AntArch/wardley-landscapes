@@ -1,5 +1,31 @@
 # Welcome
-This is an Asciidoc book of Simon Wardley's "Wardley Maps". It simply takes all his [medium posts](https://medium.com/wardleymaps) and joins them together for ease of reading.  The intention is to be entirely faithful to the original posts - I've not even fixed the few spelling mistakes - while allowing various output versions to be generated, e.g. HTML, and .mobi for Kindle e-readers.  It is made available under the same Creative Commons Attribution-ShareAlike-4.0-International licence as the original posts. 
+This is an edited and abridged version of Simon Wardley's "Wardley Maps" ascii doc. It's a [fork of andrewharmellaw/wardley-maps-book](https://github.com/andrewharmellaw/wardley-maps-book)  simply takes all his [medium posts](https://medium.com/wardleymaps) and joins them together for ease of reading.  
+
+# Who I am and why I am doing this
+
+My background is as an interdisciplinary researcher working at the interfaces of geo-science, heritage, smart-cities, remote sensing, plant and soil science, computing and knowledge engineering. I have undertaken research in a number of contrasting departments (humanities, social science and science) and am committed to approaches that maximize academic, industry, policy and public impact. This is demonstrated by engagement with community and policy groups, presentations at public science and industry events and providing timely access to research outputs under licenses that encourage re-use and participation. I have a particular interest in evidence-based approaches employing open data and am an advocate of open science. Open science approaches have the potential to dramatically increase impact beyond the traditional communities of discourse.
+
+Since 2014 I have been working in industry.
+
+I'm attempting to reframe Simon Wardley's approach in two broad ways:
+
+1. Many of Simon's examples are embedded in software development, yet the "Wardley Maps" rationale is based on a purely business need. I feel the software driven metaphor dilutes the impact of the approach. This  
+2. approach terms of knowledge and maturity. 
+
+I have a long standing obsession with data quality. I also believe that the current focus on *Open Data* is an appropriate vehicle to drive improvements in data quality. The McKinsey Global Institute report [-@mckinsey_open_2013] which examined the economic impact of Open Data came to similar conclusions: whilst estimating that globally open data could be worth a minimum of $3 trillion annually there is a recognition that there are some challenges and opportunities particularly in terms of skills and quality.
+
+Open data will not reach its full potential without careful choices about how to aggregate, present, and enable interaction with it [@goldstein_beyond_2013 p. 151]. @fry_computational_2004 describes this as a seven stage process: acquire, parse, filter, mine, represent, refine, and interact. The average consumer (individual, business or organization) will be dependent on others for six of those seven steps after data is released. This is a good opportunity for those organisations skilled in data brokering (aggregation, exposure, analysis and quality control), particularly those that can enhance open data with proprietary data. Premium products and services are likely to be in those sectors that require high quality data: a small percentage increase in quality is valuable and reduces uncertainty (insurance, risk determination etc.)). 
+
+Recently I re-read *The Deming Management Method* [@walton_deming_1988]. [Deming](http://en.wikipedia.org/wiki/W._Edwards_Deming) was a statistician credited with providing the leadership that led to the post-war economic turn-around of Japan. His focus was on quality within the production process which ultimately led to exemplar implementations like the [*Toyota Production System*](http://en.wikipedia.org/wiki/Toyota_Production_System), which in turn inspired [Lean manufacturing](http://en.wikipedia.org/wiki/Lean_manufacturing) leading to [Lean software development](http://en.wikipedia.org/wiki/Lean_software_development) employing [Agile methods](http://en.wikipedia.org/wiki/Agile_software_development). Ironically, these software approaches are now being used to *transform* whole organisations. 
+
+These 
+
+While reading *The Deming Management Method* [@walton_deming_1988] I came across the following paragraph:
+
+> "Constancy of purpose, my point number one, to stay in business. Do whatever it takes. That takes brains! Requires attention to something other than finance. And the legal department. Trying to stave off takeover, and decide whom to take over. Devoting energy to that kind of thing. 'Paper entrepreneurism,' as Professor Reich calls it, does not create wealth. It does not make the pie bigger. If you get a bigger piece of the pie you steal it from someone else. Isn't it better to make the pie bigger? That's why we came here. To make the pie bigger." [@walton_deming_1988, p. 27]
+
+I believe this is the case surrounding *commodity* products described by Simon. Commodity products represent well understood systems and processes whose workings are completely abstracted from users. Commodity products require underlying profundity of understanding and efficiency of process. However, that is not the real benefit of a commodity product. A commodity product facilitates change and innovation. New things can be built, innovation can be driven.   
+
 
 # Downloads
 If you want the PDF, or MOBI versions of this book, click on the "releases" tab above.
@@ -30,7 +56,3 @@ To generate the .mobi version of this book you additionally need to install [Asc
 Contributions are cool, and also very welcome.  There is a [code of conduct](CODE_OF_CONDUCT.md), and a [contribution guide](CONTRIBUTING.md) which you can familiarise yourself with if you want to get involved (even if its just fixing a typo).  They should be _very_ unsurprising to anyone used to the OSS world.
 
 # To Do
-* Fix xref rendering on .mobi (Kindle) file generation - it doesn't work
-* Replace the formulae image in chapter 19 with the latex equivalent (https://github.com/asciidoctor/asciidoctor-latex)
-* Change the type-setting so that paragraphs in the ```.mobi``` output aren't indented
-* Add a Travis build
