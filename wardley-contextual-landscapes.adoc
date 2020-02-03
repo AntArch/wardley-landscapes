@@ -1,7 +1,7 @@
-= Wardley Maps
-Simon Wardley
-2018-04-02
-:updated: 2018-04-02
+= Wardley [.line-through]#Maps# Contextual Landscapes
+Anthony Beck & Simon Wardley
+2020-01-31
+:updated: 2020-01-31
 :front-cover-image: image:cover.png[Front Cover,1050,1600]
 :doctype: book
 :producer: Asciidoctor
@@ -11,7 +11,7 @@ Simon Wardley
 :creator: {author}
 :ascii-ids:
 :showcomments:
-:gitrepo: https://github.com/andrewharmellaw/wardley-maps-book
+:gitrepo: https://github.com/AntArch/wardley-landscapes
 ifndef::imagesdir[:imagesdir: images]
 :toc:
 

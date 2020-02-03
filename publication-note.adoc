@@ -1,11 +1,13 @@
 [#publication-note]
 = Publication Note
 
-This book is based on the work of Simon Wardley. It's a https://github.com/andrewharmellaw/wardley-maps-book[fork of the andrewharmellaw/wardley-maps-book github repository] created by https://github.com/andrewharmellaw[Andrew Harmel-Law]. That repository collated http://medium.com/wardleymaps[Simon's Medium.com posts on Wardley Maps]. This work was released under the https://creativecommons.org/licenses/by-sa/4.0/[Creative Commons Attribution-ShareAlike-4.0-International licence] as is the subsequent collation. I do not like the share-a-like restriction. This may affect the manner in which I undertake this work. 
+This book is based on the work of Simon Wardley. It's a https://github.com/andrewharmellaw/wardley-maps-book[fork of the andrewharmellaw/wardley-maps-book github repository] created by https://github.com/andrewharmellaw[Andrew Harmel-Law]. That repository collated http://medium.com/wardleymaps[Simon's Medium.com posts on Wardley Maps]. 
 
-My intent is to heavily edit this collection so it gets to the essence of Simon's excellent work in a more succinct manner (all released under a https://creativecommons.org/licenses/by-sa/4.0/[Creative Commons Attribution-ShareAlike-4.0-International licence]). I then intend to extend this work to fit into a knowledge engineering remit  (all released under a https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution-4.0-International licence] (I also find the attribution awkward, but as it's not really enforceable I don't care))
+My intent is to heavily edit this collection so it gets to the essence of Simon's excellent work in a more succinct manner (all released under a https://creativecommons.org/licenses/by-sa/4.0/[Creative Commons Attribution-ShareAlike-4.0-International licence]). I then intend to extend this work to fit into a knowledge engineering remit  (all released under a https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution-4.0-International licence]). I do not like the share-a-like restriction. 
 
 The book has been created using https://asciidoctor.org[AsciiDoctor].  The source for the book is available on https://github.com/AntArch/wardley-landscapes[github].  If you spot any corrections that need to be made, please head over there and log an issue or submit a pull request.
+
+https://www.pexels.com/photo/architecture-buildings-business-city-325185/[Cover Photo by Aleksandar Pasaric from Pexels.]
 
 
 

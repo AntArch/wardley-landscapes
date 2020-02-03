@@ -36,7 +36,7 @@ All these generators require you to have installed [asciidoctor](https://asciido
 ## HTML 
 To generate the HTML version of this book, run the following command in the base directory of this repository:
 
-    asciidoctor wardley-maps-book.adoc
+    asciidoctor wardley-contextual-landscapes.adoc
 
 ## PDF
 To generate the PDF version of this book, you additionally need to install [asciidoctor-pdf](https://asciidoctor.cn/docs/convert-asciidoc-to-pdf/) with the following command:
@@ -45,7 +45,7 @@ To generate the PDF version of this book, you additionally need to install [asci
 
 Then you can run the following command in the base directory of this repository:
 
-    asciidoctor-pdf wardley-knowledge-landscapes.adoc
+    asciidoctor-pdf wardley-contextual-landscapes.adoc
 
 ## .MOBI (Kindle)
 To generate the .mobi version of this book you additionally need to install [Asciidoctor-EPUB3](https://asciidoctor.org/docs/asciidoctor-epub3/) and [kindlegen](https://rubygems.org/gems/kindlegen/versions/3.0.3) both via  Ruby gems - the instructions are in the linked pages.  The pre-requisite to run both of these is Ruby. You can then run the following command in the base directory of this repository:

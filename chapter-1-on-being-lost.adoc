@@ -3,8 +3,14 @@
 = Chapter 1 - All models are wrong but some are useful 
 
 Originally this chapter was called 'On being lost'. 
-'All models are wrong but some are useful' is the more useful takeaway. Simon has a discursive narrative with illuminating vignettes.
-Pad this out!
+'All models are wrong but some are useful' is the more useful takeaway: Simon starts to provide the techniques to do this.
+Sun Tzu described five factors that provide the context for decision making: — `purpose`, `landscape`, `climate`, `doctrine` and `leadership`.
+This acted as a catalyst to review how business practices and decision making are understood. 
+
+Simon has an anecdotal writing style with many illuminating vignettes. 
+Interesting as these are I have tried to edit many of these down to get to the essence. 
+However, lattitude is given in this introductory section as it sets the scene very well. 
+Simon writes in the first person - I tend not to.
 
 == Does this strategy make sense?
 
@@ -29,9 +35,9 @@ A decade later, I had risen through the ranks to become the CEO of another compa
 I was that most senior of executives.
 The company would live or die by the strategic choices I made, or so I thought.
 I wrote the strategy or at least variations were presented to me and I would decide.
-But, something had gone terribly wrong in my journey.
+*But, something had gone terribly wrong in my journey.
 Somehow along the path to becoming a CEO, I had missed those all important lessons that told me how to evaluate a strategy.
-I still had no means to understand what a good strategy was and it was no longer enough for me to think it “seems fine”.
+I still had no means to understand what a good strategy was and it was no longer enough for me to think it “seems fine”.*
 I needed more than that as I was the experienced executive that the less experienced took guidance from.
 
 I asked one of my juniors what they thought of our strategy.
@@ -71,56 +77,43 @@ I turned inward, the problem was me! There would come a reckoning when everyone 
 They would rumble that I was making it up.
 I shouldn’t be the CEO.
 At that point in time, in mid 2004, I was drowning in uncertainty and an easy mark for any would be consultant peddling snake oil.
-I would have gladly bought it.
-An entire crate of the stuff.
 
-== Serendipity
+
+== Craft, Experience and Context
 
 By chance, I had picked up a copy of the “Art of War” by Sun Tzu.
-Truth be told I picked up several different translations as the bookseller had advised that none of them were quite the same.
-That was serendipity and I owe that bookseller a debt of thanks because it was whilst reading through my second translation that I noticed something that I had been missing in my understanding of strategy.
 Sun Tzu had described five factors that matter in competition between two opponents.
-Loosely speaking, these are: — `purpose`, `landscape`, `climate`, `doctrine` and `leadership`.
-I’ve drawn them as a circle in figure 1.
-
-.The five factors 
-[#img-fig1-the-five-factors] 
-[caption="Figure 1: ",link=https://cdn-images-1.medium.com/max/1600/1*RSH2vh_xgQtjB68Zb7oBaA.jpeg] 
-image::1_RSH2vh_xgQtjB68Zb7oBaA.jpeg[Figure 1 - The five factors,900,600,align=center]
-
-<<TheFiveFactors>> and <<classHierarchyPane>>
-
-[[TheFiveFactors]]
-.The five factors.
-image::1_RSH2vh_xgQtjB68Zb7oBaA.jpeg[Blah,200,100,align=left]
-
-[[classHierarchyPane]]
-.The Class Hierarchy Pane.
-image::1_RSH2vh_xgQtjB68Zb7oBaA.jpeg[]
-
-When I looked at my strategy document, I could see a purpose and then a huge jump into leadership and the strategic choices we had made.
-But where was landscape, climate and doctrine? I started to think back to every business book that I had read.
-Everything seemed to do this jump from purpose to leadership.
+Loosely speaking, these are: — `purpose`, `landscape`, `climate`, `doctrine` and `leadership`, see figure 1 <<FiveFactors_OODAs>>.
 
 For reference, Sun Tzu’s five factors are: -
 
-*Purpose* is your moral imperative, it is the scope of what you are doing and why you are doing it.
+`Purpose` is your moral imperative, it is the scope of what you are doing and why you are doing it.
 It is the reason why others follow you.
 
-*Landscape* is a description of the environment that you’re competing in.
+`Landscape` is a description of the environment that you’re competing in.
 It includes the position of troops, the features of the landscape and any obstacles in your way.
 
-*Climate* describes the forces that act upon the environment.
+`Climate` describes the forces that act upon the environment.
 It is the patterns of the seasons and the rules of the game.
 These impact the landscape and you don’t get to choose them but you can discover them.
 It includes your competitors actions.
 
-*Doctrine* is the training of your forces, the standard ways of operating and the techniques that you almost always apply.
+`Doctrine` is the training of your forces, the standard ways of operating and the techniques that you almost always apply (policy and practice).
 These are the universal principles, the set of beliefs that appear to work regardless of the landscape that is faced.
 
-*Leadership* is about the strategy that you choose considering your purpose, the landscape, the climate and your capabilities.
+`Leadership` is about the strategy that you choose considering your purpose, the landscape, the climate and your capabilities.
 It is to “the battle at hand”.
 It is context specific i.e. these techniques are known to depend upon the landscape and your purpose.
+
+[[FiveFactors_OODA]]
+.The five factors.
+image::FiveFactors_OODA.svg[]
+
+When I looked at my strategy document, I could see a purpose and then a huge jump into leadership and the strategic choices we had made.
+But where was landscape, climate and doctrine? I started to think back to every business book that I had read.
+Everything seemed to do this jump from purpose to leadership.
+Even worse there were books giving secrets of other people’s success and extolling the virtues of _copying great companies_ such as Fannie Mae, Nokia and Blockbuster.
+I questioned how did anyone know if any of this was right? 
 
 I started to consider strategy in terms of these five factors.
 I understood our purpose, or at least I thought I did, but what about landscape? Normally in military conflicts or even in games like chess we have some means of visualising the landscape through a map, whether it’s the more geographical kind that we are familiar with or an image of the board.
@@ -132,7 +125,7 @@ This last point struck a chord with me.
 When playing a game of chess there was usually multiple moves that I could make and I would determine and adjust my strategy from this.
 A mistake by the opponent could allow me to switch from a defensive to an attacking play or to consolidate control over part of the board.
 I would determine one course of action over another because of experience, of context and my understanding of the opponent.
-Why did this strike me? Well, it’s all to do with the question of “Why?” +
+Why did this strike me? Well, it’s all to do with the question of “Why?”
 
 There is not one but two questions of why in chess.
 I have the why of purpose such as the desire to win the game but I also have the why of movement as in “why this move over that?”
@@ -142,41 +135,13 @@ This was different from all the business strategy books that I had read.
 They tend to focus on the goal or the why of purpose as the all important factor in business.
 But the purpose of winning the game was not the same as the strategic choices I made during the game.
 I started to think more on this topic.
-Though I was quite a reasonable chess player this had come from experience and obviously I had started as a novice a long time beforehand.
-In those youthful days I spent a lot of time losing especially to my father.
-But how did I learn, how did I get better at the game? I would see the board, I would move a piece and I would learn that sometimes a particular move was more beneficial than another.
+How did I learn, how did I get better at the game? 
+I would see the board, I would move a piece and I would learn that sometimes a particular move was more beneficial than another.
 I would refine my craft based upon my gameplay on the board.
 
-It was through understanding the landscape, the rules of the game and context specific play that I had started to master chess.
+*It was through understanding the landscape, the rules of the game and context specific play that I had started to master chess.
 But this was not what I was doing in business.
-I had no way to visualise the environment, no means to determine why here over there and no obvious mechanism of learning from one game to another.
-I’ve added these two types of “why” into figure 2 building upon Sun Tzu’s five factors.
-
-.The two types of why
-[#img-fig2-the-two-types-of-why] 
-[caption="Figure 2: ",link=https://cdn-images-1.medium.com/max/1600/1*oedrZ78WV5eOaiVxhV5qow.jpeg] 
-image::1_oedrZ78WV5eOaiVxhV5qow.jpeg[Figure 2 - The two types of why,900,600,align=center]
-
-My company had a “why of purpose” which was to be the best “creative solutions group in the world”.
-It sucked.
-It was actually a botch job because we had multiple lines of business which didn’t quite fit together.
-We were an online photo service, a consultancy, a European CRM, an Identity web service, a fulfilment engine and an assortment of special projects around 3D printing and the use of mobiles phones as cameras.
-I had no real way of determining which we should focus on and hence the purpose was a compromise of doing everything.
-
-When I had taken over the company a few years earlier, we were losing money hand over fist, we had to borrow significant sums to stay afloat because we were on our way out.
-In reality our purpose had been simply “to survive”.
-In the next few years we had turned this around, we had become highly profitable, we had paid back the loans and had a million or so in the bank and we were growing.
-But we had done so not through any deliberate focus on the landscape but instead by just grabbing opportunities and cost cutting where we could.
-The team were already exhausted.
-
-We weren’t heading in a particular direction; we were just opportunists.
-Deng Xiaoping once said that managing the economy was like “Crossing the river by feeling the stones”.
-Well, we were feeling the stones and being adaptive but beyond simple metrics such as being more profitable than last quarter we had no real direction.
-We lacked this whole “why of movement” that I had seen in Chess.
-
-But I kept on coming back to whether it really mattered.
-I felt instinctively as though I needed to pick one or two areas for the company to focus on but since we were doing well in all and in the past we have failed with just one focus then I was unsure whether it made sense.
-So, how do I choose? Should I choose? Why here over there? I was still lost.
+I had no way to visualise the environment, no means to determine why here over there and no obvious mechanism of learning from one game to another.*
 
 I started to think about how we had made past decisions.
 In our board meetings, the way we decided upon action was to look at different proposals, the financial state of the company and decide whether a set of actions fitted in with our purpose, one which admittedly was a compromise of past decisions.
@@ -194,32 +159,8 @@ I became obsessively fascinated by the extensive use of maps in battle and for l
 Topographical intelligence became a hugely important and decisive factor in numerous battles of the American Civil War.
 I could think of no equivalent tool in business.
 I had no equivalent lessons to learn such as flanking moves, pinning a piece or standard plays such as fool’s mate.
-All I had were endless books giving secrets of other people’s success and extolling the virtues of copying great companies such as Fannie Mae, Nokia and Blockbuster.
-I questioned how did anyone know if any of this was right? +
-
-I met up with a few of my peers from other companies and floated this idea of topographical intelligence and the use of mapping in business.
-How did they learn from one battle to another? To say I was disheartened by the response would be an underestimation.
-Beyond the blank stares, I was royally lectured on the importance of culture, of purpose, of technology, of building the right team and of execution.
-However, I had built a great team from around the world.
-We were agile, we used and wrote open source technology, we had the modern equivalent of a private cloud, we were API driven and had developed advanced techniques for continuous deployment of technology.
-This was 2004.
-
-In the technology desert that was Old Street in London, we dominated the computing language of Perl.
-We had remarkable rates of execution, outstanding technology, an exceptional team and a strong development culture.
-This stuff was fine.
-The problem was the CEO i.e.
-me.
-I sucked at strategy or at best I was making it up and we weren’t learning.
-I reasoned that none of my peers were going to tell me how they did this, it probably wasn’t in their interests to do so.
-But I believed that this was somehow important and so I kept on digging.
 
 == The importance of maps in military history
-
-It was about this time that I read the story of Ball’s Bluff.
-It is not commonly cited as one of the major engagements of the American Civil War but it was not only one of the largest in 1861, it involved the utter rout of Union forces.
-Most saliently Ball’s Bluff is an abject lesson in the importance of maps and situational awareness.
-Through misinformation and miscalculation, 1,700 Union troops were caught in disadvantageous terrain and in effect slaughtered (with an 8 to 1 kill ratio) by Confederates.
-A thousand men were lost because the Union Generals had no awareness of the landscape and marched soldiers blindly to their deaths on vague ideas of “because the Confederates are somewhere over there”.
 
 The more I read into history, the clearer it became that understanding and exploiting the landscape had been vital in battle.
 Probably the most famously cited example is the ancient battle of the pass of Thermopylae.
@@ -239,23 +180,21 @@ Situational awareness, use of terrain and maps appeared to be vital techniques i
 But I wasn’t doing any of this in our company strategy.
 I didn’t have any form of maps or understanding of the landscape.
 I was instead using tools like SWOT diagrams.
-For those uninitiated in the arcane language of modern business “strategy”, a SWOT diagram — strengths, weaknesses, opportunities and threats — is a tool to assess whether some course of action makes sense.
 
 Now, imagine for a second that you were part of that Greek army on the eve of battle preparing to face overwhelming odds.
 Imagine that Themistocles is standing before you rallying the troops.
 He is inspiring you with purpose, to defend the Greek states against a mighty foe.
 You’re all highly trained, excellent soldiers and have outstanding technology for that time.
 But imagine that just before the blood of battle, you hear him declare that he has no understanding of the environment, no map and no strategy based upon the terrain.
-However, he shouts, “Have no fear for I have created a SWOT diagram!” +
+However, he shouts, “Have no fear for I have created a SWOT diagram!” 
 
 I’d flee in panic.
 
-In figure 3, I’ve placed side-by-side a map of the battle of Thermopylae and a SWOT diagram for the same battle.
+In figure 3 <<ThemistoclesSWOT>>, I’ve placed side-by-side a map of the battle of Thermopylae and a SWOT diagram for the same battle.
 
-.Themistocles SWOT
-[#img-fig3-themistocles-swot] 
-[caption="Figure 3: ",link=https://cdn-images-1.medium.com/max/1600/1*Uk5tLoqC16H8baB2BJbrsw.jpeg] 
-image::1_Uk5tLoqC16H8baB2BJbrsw.jpeg[Figure 3 - Themistocles SWOT,900,600,align=center]
+[ThemistoclesSWOT]
+.Themistocles SWOT.
+image::1_Uk5tLoqC16H8baB2BJbrsw.jpeg[]
 
 Now, ask yourself, what do you think would be more effective in combat — a strategy built upon an understanding of the landscape or a SWOT diagram? What do you think would be more useful in determining where to defend against the horde of Xerxes army? Which would help you communicate your plan? Would Themistocles ever be able to exploit the landscape from a SWOT? Which was I using in running my business — a map or a SWOT? The wrong one.
 We had five factors from purpose to landscape to climate to doctrine to leadership and somehow I had been jumping from purpose to leadership and missing three of them.
@@ -281,10 +220,10 @@ However, in this world, no one has ever seen a chessboard.
 In fact, all you’ve ever seen are the following characters on a screen and you play the game by simply pressing a character, your opponent counters and then you counter and so forth.
 The list of moves being recorded underneath the characters.
 
-.Chess World
-[#img-fig4-chess-world] 
-[caption="Figure 4: ",link=https://cdn-images-1.medium.com/max/1600/1*fKQnKEcAIUUgiZxfIuq87w.jpeg] 
-image::1_fKQnKEcAIUUgiZxfIuq87w.jpeg[Figure 4 - Chess World,900,600,align=center]
+
+[ChessWorld]
+.Chess World.
+image::1_fKQnKEcAIUUgiZxfIuq87w.jpeg[]
 
 Now both players can see what the other has pressed, white started with Pawn (w), black countered with Pawn (b) and so on.
 The game will continue until a draw is determined or someone has won.
@@ -299,12 +238,11 @@ People will convince themselves that they know what they’d doing and the impor
 
 Now imagine you’re playing against someone who can see something truly remarkable — the board.
 In this game, you will move Pawn(w), the opponent will counter Pawn (b), you will move again Pawn(w), they will counter Queen(b) and you will have lost.
-I’ve shown this in the figure below.
+I’ve shown this in the figure <<ChessWorldVsTheBoard>> below.
 
-.Chess World vs The Board
-[#img-fig5-chess-world-vs-the-board] 
-[caption="Figure 5: ",link=https://cdn-images-1.medium.com/max/1600/1*-yrQMUlXPPQ-2PJ71nWThQ.jpeg] 
-image::1_-yrQMUlXPPQ-2PJ71nWThQ.jpeg[Figure 5 - Chess World vs The Board,900,600,align=center]
+[ChessWorldVsTheBoard]
+.Chess World vs The Board.
+image::1_-yrQMUlXPPQ-2PJ71nWThQ.jpeg[]
 
 Remember, you have no idea that the board exists and you can only see what is on the left hand side i.e.
 the characters you press and the sequence.
@@ -323,8 +261,22 @@ I needed some way to determine just how bad my situational awareness was.
 
 == Categorising situational awareness
 
-The problem I faced was trying to determine whether I understood the landscape of business or not? I knew that learning in both chess and military campaigns was different from what I was doing in business, but how? I put a map and a picture of chess board side-by-side and started to look at them.
-What is it that made these maps useful? +
+IMPORTANT: I agree with the analogy of the chess game. 
+I don't necessarily see this as a mapping problem. 
+I do see this as a knowledge representation issue. 
+In this scenario a chess board is the most compact way of representing all aspects of the problem. 
+A textual abstraction is quite simply not rich enough to enable good decisions. 
+
+IMPORTANT: In this section Simon goes into detail about maps. 
+Thinking with my 'spatial' head on - many of the characterisations of space used by Simon are wrong or poorly thought through. 
+However, that is not the point: the issue here is that a spatial abstraction is a catalyst for Simon. 
+He recognised that non-spatial representations are not as information rich as a spatial representation. 
+Spatial is the prism through which other decision making information is re-evaluated. 
+
+The problem I faced was trying to determine whether I understood the landscape of business or not? 
+I knew that learning in both chess and military campaigns was different from what I was doing in business, but how? 
+I put a map and a picture of chess board side-by-side and started to look at them.
+What is it that made these maps useful?
 
 The first, and most obvious thing, is that they are visual.
 If I was going to move a piece on a map then I could point to where it was and where it needed to go.
@@ -336,22 +288,34 @@ This use of storytelling has a long history and was the norm for navigation by V
 At some point, at various different times, cultures had found maps to be more effective.
 When I looked at our strategy documents, all I could see was a story.
 
-The second thing to note with a map is it is context specific i.e.
-the battle at hand.
+The second thing to note with a map is it is context specific i.e. the battle at hand.
 You learn from that context and how pieces move in it, in much the same way you learn from games in chess.
 However, in order to do this you need to know the position of pieces on the map and where they can move to.
 But position is relative to something.
-In the case of a geographical map it is relative to the compass i.e.
-this piece is north of that.
+In the case of a geographical map it is relative to the compass i.e. this piece is north of that.
 The compass acts as an anchor for the map.
 In the case of a chess board, the board itself is the anchor as in this piece is at position C1 or B3.
 This gave me six absolute basic elements for any map which are *visual representation*, *context specific*, *position* of *components* relative to some form of *anchor* and *movement* of those components.
-I’ve summarised this in figure 6.
+I’ve summarised this in figure 6 <<BasicElementsOfAMap>>.
 
-.Basic elements of a map
-[#img-fig6-basic-elements-of-a-map] 
-[caption="Figure 6: ",link=https://cdn-images-1.medium.com/max/1600/1*AZyJ0pVpLvML0_RLrCdC3A.jpeg] 
-image::1_AZyJ0pVpLvML0_RLrCdC3A.jpeg[Figure 6 - Basic elements of a map,900,600,align=center]
+
+[BasicElementsOfAMap]
+.Basic elements of a map.
+image::1_AZyJ0pVpLvML0_RLrCdC3A.jpeg[]
+
+IMPORTANT: I have a problem with the section above. 
+The focus on mapping overides other, potentially more important, elements. 
+Context is important: the representation should only display the information which is important for the decision making problem at hand (this does introduce a tautology in terms of what information is relevant to a problem).
+Relevant information can be represented in a complex n-dimensional matrix.
+The challenge is to slice this information in a manner which supports decision making or provides insight. 
+Whilst Simon has determined one slice (principally sliced around a technological axis), I believe there are others (for example social, organisational, legislative).
+These are not individual abstractions (i.e. they are not orthogonal), but should be viewed as faceted ways of looking at the same organism.
+
+IMPORTANT: In terms of the concepts of *anchor* this is firmly embedded in a cartesian view of cartography requireing a guided orientation. 
+I don't think these are needed. 
+Rather, they are relative vectors that reflect the units of measurement through which the data is sliced. 
+As vectors they represent position and movement, but do not represent distance or cost.
+
 
 Unfortunately, every single diagram I was using to determine strategy in business lacked one or more of those basic elements.
 I had business process maps which were visual, context specific and had position but failed to show any form of movement i.e.
