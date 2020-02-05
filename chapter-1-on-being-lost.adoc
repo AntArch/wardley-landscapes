@@ -340,24 +340,44 @@ What about the other factors that Sun Tzu had talked about?
 You can think of climate as the rules of game.
 For example, you don’t send the Navy into a storm any more than you would send troops walking over a cliff.
 I had heard Richard Feynman talk about how you could learn the rules of chess simply by observing the board over time.
-Maybe there were rules of business that I could discover if I could map the environment? Maybe everything wasn’t quite so random? But climate is more than just the rules of the game, it’s also the opponent’s actions and how well you can anticipate the change.
+Maybe there were rules of business that I could discover if I could map the environment? 
+Maybe everything wasn’t quite so random? 
+But climate is more than just the rules of the game, it’s also the opponent’s actions and how well you can anticipate the change.
 Unfortunately, without a map, I was stuck.
 
-Hence I turned to next factor which was doctrine or the standard ways of operating.
+Hence I turned to next factor which was `doctrine` or the *standard ways of operating*.
 This I thought would be easy as it’s just the good practice of business.
 I started looking into operational strategy and it was during that time another one of those blindingly obvious questions hit me.
 I was reading up on the great and good of business, those wise men and women who ran corporations along with their secrets of success when a thought popped into my mind — how did I know if they were wise? How do I know this practice is good? What if a lot of it was luck and just outcome bias? The last point is worth exploring more.
+
+IMPORTANT: I would probably want to refine `doctrine`. 
+I agree with the definition of `doctrine` as the *standard ways of operating*. 
+However, I think this exclusively encapsulates rules which, ostensibly, apply equally to all _actors in the domain_. 
+I use, ostensibly, because doctrine does change over time and sometimes this can be led by individual people or organisations. 
+This is what differentiated the approach used by Spotify (a music streaming service (legal and disruptive)) to that used by Napster (a music download service (illegal and disruptive)). 
+As Pablo Picasso said - '_Learn the rules like a pro, so you can break them like an artist_'.
+
+IMPORTANT: `Doctrine` contrasts with `dogma` (not sure I should use that word as the connotations are too negative).
+`Dogma` is the *localised implementation of doctrine* and reflects the operational procedures and policy that each organization implements in order to demonstrate they have complied with the `doctrine`.
+There can be both good and bad `dogma`. However, `dogma` can fossilise and make it difficult for an incumbent organisation to change. Without curation what was once a lightweight and nimble application of operational policy that clearly relates to doctrine will over time become heavyweight fossilized dogma that requires specialists to draw the links back to doctrine. Dogma can significantly frame the conceptual understanding and cultural outlook of an organisation.
 
 Imagine a normal six sided dice.
 Imagine you have two possible bets either 1 to 5 or the number 6.
 Now, basic probability would tell you to choose 1 to 5.
 Let us suppose you choose this, we roll the dice and it turns out to be 6.
-Were you wrong in your choice? Was the person who bet on six making the right strategic choice? If you didn’t understand basic probability, then on an outcome basis alone then you’d argue they were right but it’s clearly the wrong strategic choice.
+Were you wrong in your choice? 
+Was the person who bet on six making the right strategic choice? 
+If you didn’t understand basic probability, then on an outcome basis alone then you’d argue they were right but it’s clearly the wrong strategic choice.
 Roll the dice a hundred times and you will overwhelmingly win if you stick to betting on 1 to 5.
-When we choose to copy another is it the right strategic choice or because of outcome bias? Am I copying ExxonMobile, Fannie Mae, Nokia and Blockbuster because of some deep strategic insight or because of past success? Am I copying the wrong thing? +
+When we choose to copy another is it the right strategic choice or because of outcome bias? 
+Am I copying ExxonMobile, Fannie Mae, Nokia and Blockbuster because of some deep strategic insight or because of past success? 
+Am I copying the wrong thing?
 
-So how did I know that what I was copying would be right? Furthermore, even if it was right then how did I know it would be right for my business? When you think about military history, there are many moves that have been learned over time from one battle to another e.g.
-flanking an opponent to suppressing fire.
+IMPORTANT: Good point. Very well made.
+
+So how did I know that what I was copying would be right? 
+Furthermore, even if it was right then how did I know it would be right for my business? 
+When you think about military history, there are many moves that have been learned over time from one battle to another e.g. flanking an opponent to suppressing fire.
 These are context specific as in relevant to the battle at hand.
 In other words you don’t flank an opponent when an opponent isn’t at the point you’re flanking.
 But there are also many approaches that are not context specific but more universally useful.
@@ -366,13 +386,18 @@ You never hear a General shout “Ok, we’re going to use suppressing fire whic
 They already know.
 
 These universal approaches are my standard ways of operating, the doctrine that we follow.
-But if I cannot see the landscape then how do I know whether an approach is universal or context specific? In one battle just because a general may have won by flanking an opponent then it doesn’t mean ordering my troops to flank the opponent is going to work every time.
+But if I cannot see the landscape then how do I know whether an approach is universal or context specific? 
+In one battle just because a general may have won by flanking an opponent then it doesn’t mean ordering my troops to flank the opponent is going to work every time.
 This may be completely the wrong thing to do.
 I can’t just simply copy others even if they are successful because I don’t know if that success was due to them being wise or just plain luck nor whether our context is the same.
 
 Unfortunately, copying the wise men and women of business who had been successful was all that I had done.
 I had even heard other people talk about how they had tried to copy this or that approach and it had failed and I had heard others say that it was their “execution that had failed”.
-Well what if it wasn’t? What if they had copied one context specific approach and applied it to the wrong context? What if it was just the wrong thing to do like betting on 6? How would they know? How would I know? +
+Well what if it wasn’t? 
+What if they had copied one context specific approach and applied it to the wrong context? 
+What if it was just the wrong thing to do like betting on 6? 
+How would they know?
+How would I know?
 
 At this point, my gut was having collywobbles.
 I clearly had no clue about anything and I was leading the company.
@@ -384,15 +409,19 @@ But still we were successful.
 I couldn’t figure that bit out and I kept thinking I was worrying about nothing.
 But we had no maps and without maps we had no mechanism to learn about common patterns that affect our landscape nor anticipate possible change nor determine the why of movement.
 We had no real idea whether a change in the market was caused by us or some other force.
-If we can’t see the environment in which we are competing, then how do we determine whether a successful approach is universal or specific to that environment? If I can’t separate out what is context specific, then how do I determine what is doctrine i.e.
-universally applicable from that which is leadership i.e.
-context specific? Everything was a mess.
+If we can’t see the environment in which we are competing, then how do we determine whether a successful approach is universal or specific to that environment? 
+If I can’t separate out what is context specific, then how do I determine what is doctrine i.e. universally applicable from that which is leadership i.e. context specific? 
+Everything was a mess.
 
 == The Strategy Cycle
 
 I was clearly clueless but at least I had found five factors that I wanted to use to fix our strategy, though I had no idea how to do this.
 But that presented another problem.
-What order matters? Is climate more important than landscape? Maybe leadership is more important than purpose? Is there a strict order in which we move through these things? At least, we had our purpose even though it was a bit sucky.
+What order matters? 
+Is climate more important than landscape?
+Maybe leadership is more important than purpose?
+Is there a strict order in which we move through these things?
+At least, we had our purpose even though it was a bit sucky.
 That crumb of comfort didn’t last long.
 
 The best way I’ve found to think about this problem is with the game of paintball.
@@ -401,8 +430,7 @@ The next step is to understand the landscape and the obstacles in your path.
 Naturally, a bunch of newbies will tend to charge out onto the field of battle without understanding their landscape.
 The consequences are usually a very quick game.
 Assuming you understand the landscape then you might determine a strategy of covering fire with a ground assault against the target.
-You will apply some form of doctrine i.e.
-breaking into two small teams.
+You will apply some form of doctrine i.e. breaking into two small teams.
 Then you will act.
 Chances are, during the course of the game than the climate will change — you will come under fire.
 At this point doctrine kicks in again.
@@ -413,25 +441,27 @@ You will update your map, even if it’s a mental one, noting where the sniper i
 A new strategy is formed for example one group might provide suppressing fire whilst the other group flanks the opponent.
 And so you will act.
 
-The point of this example is to demonstrate three things.
-First, the process of strategy is not a linear process but an iterative cycle.
-The climate may affect your purpose, the environment may affect your strategy and your actions may affect all.
-Second, acting is essential to learning.
-Lastly your purpose isn’t fixed, it changes as your landscape changes and as you act.
+The point of this example is to demonstrate three things:
+
+1.  The process of strategy is not a linear process but an iterative cycle.
+** The climate may affect your purpose, 
+** the environment may affect your strategy,
+** and your actions may affect all.
+2. Acting is essential to learning.
+3. Your purpose isn’t fixed, it changes as your landscape changes and as you act.
+
 There is no “core”, it’s all transitional.
 Nokia’s purpose today is not the same as when the company was a Paper mill.
 I could see my last atom of business sanity disappear in a puff.
-I started to think about all those projects we had dismissed as not being core? What if they were instead our future?
+I started to think about all those projects we had dismissed as not being core?
+What if they were instead our future?
 
 The best way I’ve found to cope with this cycle is through the work of the mad major himself — the exceptional John Boyd.
 In order to understand the process of air combat, John Boyd developed the OODA loop.
 This is a cycle of observe the environment, orient around it, decide and then act.
-In figure 7 below, I’ve married together both Sun Tzu and John Boyd to create a strategy cycle.
+In figure 7 <<FiveFactors_OODAs>> below, I’ve married together both Sun Tzu and John Boyd to create a strategy cycle.
 
-.The Strategy Cycle
-[#img-fig7-the-strategy-cycle] 
-[caption="Figure 7: ",link=https://cdn-images-1.medium.com/max/1600/1*fiwMV1ucsm0nk6XPY4wxkg.jpeg] 
-image::1_fiwMV1ucsm0nk6XPY4wxkg.jpeg[Figure 7 - The Strategy Cycle,900,600,align=center]
+
 
 Now, it’s worth remembering where I was back in 2004.
 I had a purpose which wasn’t static despite my belief it was.
