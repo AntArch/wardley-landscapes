@@ -1,5 +1,7 @@
 [#chapter-2-finding-a-path]
 
+//cd /home/beckant/git_shares/OtherRepositories/wardley-landscapes; asciidoctor-pdf chapter-2-finding-a-path.adoc
+
 = Chapter 2 - Finding a path
 
 IMPORTANT: From here on in I use a heavy red pen!
@@ -34,10 +36,10 @@ In any industrial ecosystem, novel and new things constantly appear.
 Those things that are useful will be copied.
 They will spread: the once novel, becomes commonplace.
 The magic of the first electric light bulb, the first computer and the first telephone are now an expected norm.
-We no longer marvel at such things but instead we would reel in utter shock if presented with a workplace that did not provide them.
 We also build things on the basis that these common things will continue to exist.
-How they are created may change - but that not directly impact on how we consume them.
-Over time many will become obselete as their functions are replaced by more general things.
+How they are created may change - but that does not directly impact on how we consume them.
+Over time many things will become obselete as their functions are replaced by more general things.
+This is what has happened to the fax machine and cassette tape.
 Somehow, I had to map this competition itself including the journey from novel to commonplace.
 But what is that journey and what are the components that I’m going to map?
 
@@ -51,19 +53,11 @@ One nut now fitted many bolts and vice versa.
 The artisan skill of building the perfect nut and bolt was replaced by more mass produced and interchangeable components.
 The novel had become commonplace.
 Whilst those artisans might have lamented the loss of their industry, those humble components also enabled the rapid creation of more complex machinery.
-Uniform mechanical components enabled the faster building of ships, guns and other devices.
-
-
-It also allowed for the introduction of manufacturing systems that took advantage of these components.
-In 1803, collaboration between Marc Isambard Brunel and Maudslay led to the principles of modern mass production being introduced at Portsmouth dockyard.
-The use of block making machinery replaced the craft of custom made pulley blocks, an essential component in the rigging of Naval ships.
-A total of 45 machines enabled an order of magnitude increase in productivity.
-The practices subsequently spread throughout industries leading to what became known as the Armory Method and later the American System of manufacturing.
+Uniform components enabled the faster building of ships, guns and other devices.
 
 Things that are commonplace change social expectations and allow for new forms of practice and organisation.
-The standardisation of components facilitates efficient and stanadardised processes that in turn allows the creation of innovative products with greater complexity.
-Innovations are built on the foundations of previous innovations which have now become commonplace
-Without such well-defined mechanical or electrical components then our world would be a less technologically rich place — no Internet, no generators, no TV, no computers, no light bulbs and no toasters.
+The standardisation of components facilitates efficient and standardised processes that in turn allows the creation of innovative products with greater complexity.
+*Innovations are built on the foundations of previous innovations which have now become commonplace.*
 
 Business operates in a world where there’s a constant flow of change, where the novel becomes commonplace and where the commonplace enables the novel.
 If we define economic progress as the movement of our society to ever more complex technological marvels, then progress is simply a manifestation of this competition.
@@ -83,8 +77,7 @@ Take a few minutes to read it carefully.
 [caption="Figure 9: ",link=https://cdn-images-1.medium.com/max/1600/1*9UXhn8Ne74Ijfn931sjOPw.jpeg]
 image::1_9UXhn8Ne74Ijfn931sjOPw.jpeg[Figure 9 - Basic elements of a map,900,600,align=center]
 
-The map is *visual* and *context specific* i.e.
-it is unique to that line of business containing the components that influence it *at that moment in time*.
+The map is *visual* and *context specific* i.e. it is unique to that line of business containing the components that influence it *at that moment in time*.
 The map has an *anchor* which is the user (in this case a public customer though other types of users exist) and their needs.
 The *position* of *components* in the map are shown relative to that user on a *value chain, represented by the y-axis*.
 Each component needs the component below it, however the higher up the map a component is then the more visible it becomes to the user.
@@ -127,18 +120,15 @@ With time we become habituated to the act, it is increasingly less visible and w
 _Our focus is on ruthless removal of deviation, on industrialisation, and operational efficiency_.
 
 
-
-
-
 However, the map also has some advanced features which are not so immediately obvious.
 There is a *flow* of risk, information and money between components.
 
 
 The components can also represent different *types* of things, the military equivalent of different troops — infantry, tanks and artillery.
-In these Wardley maps, the common name now given to them due to my inability to find something useful to call them, then these types represent *activities*, *practices*, *data* and *knowledge*.
+These types represent *activities*, *practices*, *data* and *knowledge*.
 All of these types of components can move and in our case this means evolve from left to right driven by competition.
 However, the terms we use to describe the separate stages of evolution are different for each type.
-In order to keep the map simple, the x-axis of evolution shows the terms for *activities* alone.
+_In order to keep the map simple_, the x-axis of evolution shows the terms for *activities* alone.
 The terms that I use today for other types of things are provided in figure 10.
 
 
@@ -147,7 +137,7 @@ The terms that I use today for other types of things are provided in figure 10.
 [caption="Figure 10: ",link=https://cdn-images-1.medium.com/max/1600/1*PqRZpTXh4NJF_gfMtt8tsg.jpeg]
 image::1_PqRZpTXh4NJF_gfMtt8tsg.jpeg[Figure 10 - Types and stages of evolution,900,600,align=center]
 
-IMPORTANT: This demonstrates the faceted nature of Wardley mapping. This represents the range of different dimensions within which business concepts can be expressed. Whilst it is possible that some of these are orthogonal to all the others (i.e. they have no relationship to the others and can be represented on their own unique axis), this is rarely going to be the case. As suh.....
+IMPORTANT: This demonstrates the faceted nature of Wardley mapping. This represents the range of different dimensions within which business concepts can be expressed. Whilst it is possible that some of these are orthogonal to all the others (i.e. they have no relationship to the others and can be represented on their own unique axis), this is rarely going to be the case..... *I'm not sure if I agree with all these categories. Data and knowledge, for example, should be symbiotic and closely aligned. I'm also not sure if the intervening concepts are useful.
 
 Lastly *climatic* patterns can be shown on the map.
 I’ve highlighted these more advanced elements onto figure 11.
@@ -164,35 +154,32 @@ We simply accept that they are there.
 However, it’s worth knowing that they exist.
 
 We can start to discuss the landscape.
-For example, have we represented the user need reasonably and are we taking steps to meet that user need?
-Maybe we’re missing something such as an unmet need that we haven’t included?
-Are we treating components in the right way?
-Are we using a utility for power or are we somehow building our own power station as though it’s a core differentiator visible to the user?
-If so, why?
-Have we included all the relevant components on the map or are we missing key critical items?
-We can also start to discuss our anticipations of change.
-What happens when platform becomes more of a utility?
-How does this affect us?
-What sort of inertia will we face?
+For example:
+
+* Have we represented the user need reasonably and are we taking steps to meet that user need?
+* Maybe we’re missing something such as an unmet need that we haven’t included?
+* Are we treating components in the right way?
+* Are we using a utility for power or are we somehow building our own power station as though it’s a core differentiator visible to the user?
+** If so, why?
+* Have we included all the relevant components on the map or are we missing key critical items?
+* We can also start to discuss our anticipations of change.
+* What happens when platform becomes more of a utility?
+* How does this affect us?
+* What sort of inertia will we face?
 
 
 Maps are fundamentally a communication and learning tool.
-In the next chapter we’re going to loop through the strategy cycle in order for me to teach you some of the basic lessons that I learned.
-However, before we do this, I just want to describe a few steps to help you create your own maps.
+Here are a few steps to help you create your own maps.
 
 == Step 1 — Needs
 
-Critical to mapping is the anchor and hence you must first focus on the user need.
+You must first focus on the user need (_this is described as an anchor whihc orients the map. This is twaddle_).
 This requires you to define the scope of what you’re looking at — are we a tea shop, an automotive company, a nation state or a specific system?
-The trick is to start somewhere.
-You will often find that in the process of mapping you need to expand or reduce your scope and there is nothing wrong with this.
 A map for a particular company is part of a wider map for the ecosystem that the company operates within.
 A map of a particular system within a company is part of the map for the entire company.
 You can expand and reduce as necessary.
 It’s worth noting that the user needs of one map are components in another.
-For example, the user needs for a company producing nuts and bolts become the components used (i.e.
-nuts and bolts) for a company producing automobiles or bridges.
-
+For example, the user needs for a company producing nuts and bolts become the components used (i.e. nuts and bolts) for a company producing automobiles or bridges.
 
 In our first map the user needs for an electricity provider are simply drawn as a single component far down the value chain of our map and described as _power_.
 As a user, we could describe our needs for power as being reliable, utility like, provided in standard forms and accessible.
@@ -203,24 +190,25 @@ Equally, the entire map of your business might be a single component for someone
 
 
 Hence start with a scope and define the user needs for that scope.
-Be careful though because a common trap is not to think of your user’s needs but instead to start to describe your own needs i.e.
-your desire to make a profit, to sell a product or be successful.
-Yes, your business is a user with its own needs but this is different from say your public customers.
-To keep things simple for now, focus on them.
+A common trap is not to think of your user’s needs but instead to start to describe your own needs i.e. your desire to make a profit, to sell a product or be successful.
+If you’re a tea shop then your users may have needs such as:
 
+* a refreshing drink, 
+* a convenient location, 
+* a comfortable environment, 
+* a quick service and 
+* a tasty treat.
 
-You need to think precisely about what your user needs.
-If you’re a tea shop then your users may have needs such as a refreshing drink, a convenient location, a comfortable environment, a quick service and a tasty treat like a piece of lemon drizzle cake.
-This in turn requires you to have the capability to satisfy those needs.
-If you don’t then your plan for world domination of the tea industry might be abruptly halted.
-At the same time, you should distinguish between the many things that your users want but do not necessarily need.
-So start with questions such as what does this thing need to do, how will its consumers interact with it and what do they expect from it?
+This in turn requires you to have the capability to satisfy those needs and distinguish between what your users want but do not necessarily need.
+So start with questions such as:
+
+* what does this thing need to do, 
+* how will its consumers interact with it and 
+* what do they expect from it?
+
 There are various techniques to help elucidate this but I’ve found nothing more effective than talking directly to your own users.
-Creating a user journey for how they interact with what you provide is always a good start.
-
-
-As you discuss with users, along with the usual list of wants (i.e.
-I want my cup of tea to make me fabulously witty, slim and handsome) then you might find they have genuine unmet needs or novel needs that they find difficult in describing.
+Creating a user journey for how they interact with what you provide.
+You might find they have genuine unmet needs or novel needs that they find difficult in describing.
 These are important.
 Don’t ignore them just because you don’t provide them at this time.
 Back in 2005, our user needs for the online photo service included such things as sharing photos online with other users.
@@ -237,18 +225,15 @@ image::1_x0ovFBM_aq7DxseX0nOuRQ.jpeg[Figure 13 - User needs,900,600,align=center
 
 == Step 2 — Value Chain
 
-Whilst having user needs is a great start, just knowing the needs doesn’t mean the stuff will now build itself.
-There are other things involved and this is what we call a value chain.
-It can be simply determined by first asking the question of “what is the user need” and then by asking further questions of “what components do we need in order to build this capability?” +
+The value chain is the components required to provide the capability to deliver the user need.
 
-For example, in the case of our online photo service, once the basic user needs were known then we could describe our top level capabilities, our top level components.
+In the case of our online photo service, once the basic user needs were known then we could describe our top level capabilities, our top level components.
 We could then describe the subcomponents that these visible components themselves would need.
 The best way I’ve found of doing this, from practice, is to gather a group of people familiar with the business and huddle in some room with lots of post-it notes and a huge whiteboard.
 On the post-it notes write down the user needs and the top level capabilities required to meet them.
 Place these on the wall in a fairly random order.
 Then for each capability, using more post-it notes, the group should start to write down any subcomponents that these top-level components will use.
 This can include any activity, data, practice or set of knowledge.
-
 
 For each subcomponent further subcomponents should then be identified until a point is reached that the subcomponents are now outside of the scope of what you’re mapping.
 Power doesn’t need to be broken down any further if the company consumes it from a utility provider.
@@ -257,25 +242,19 @@ This in turn needs a web site which in turn needs a platform that in turn needs 
 These components will become part of your value chain and any component should only be written once.
 When the group is satisfied that a reasonable set of components for all the needs have been written then draw a single vertical line and mark it as the value chain as shown in figure 14.
 
-
 .A framework for the value chain
 [#img-fig14-A-framework-for-the-value-chain]
 [caption="Figure 14: ",link=https://cdn-images-1.medium.com/max/1600/1*0EbD0NZUuo8R5HN2Im73-A.jpeg]
 image::1_0EbD0NZUuo8R5HN2Im73-A.jpeg[Figure 14 - A framework for the value chain,900,600,align=center]
 
-The top-level components (i.e.
-your capabilities, what you produce, what is most visible to the user) should be placed near the top of the value chain.
-Subcomponents should be placed underneath with lines drawn between components to show how they are related e.g.
-this component needs that component.
+The top-level components (i.e. your capabilities, what you produce, what is most visible to the user) should be placed near the top of the value chain.
+Subcomponents should be placed underneath with lines drawn between components to show how they are related e.g. this component needs that component.
 As you go through this process, you may wish to add or discard components depending upon how relevant you feel they are to drawing a useful picture of the landscape.
 They can always be added or removed later.
 
 
 In figure 15, I’ve provided a value chain for our online photo service adding in the superfluous term “needs” to emphasise that this is a chain of needs.
-Obviously, for simplicity, not everything is included e.g.
-payment.
-Before you ask, most users do have a need for not being accused of theft, so providing a payment capability is quite useful to both them and your business assuming that you’re not giving everything away freely.
-
+Obviously, for simplicity, not everything is included e.g. payment.
 
 .A value chain
 [#img-fig15-A-value-chain]
@@ -294,18 +273,14 @@ Don’t ignore the challenge but celebrate it as this will become key to making 
 
 But also, don’t waste time trying to make a perfect value chain in order to build a perfect map.
 It’s not only impossible, it’s unnecessary.
-All maps, including geographical maps are imperfect representations of what exists.
-To draw a perfect geographical map then you would have to use a 1 to 1 scale at which point the map being the size of the landscape it covers is anything but useful.
-A map of France, the size of France helps no-one.
+*All maps, including geographical maps are imperfect representations of what exists.*
 
 == Step 3 — Map
 
-As I quickly discovered, value chains on their own are reasonably useless for understanding strategic play in an environment.
-This is because they lack any form of context on how it is changing i.e.
-they lack movement.
+Value chains on their own are reasonably useless for understanding strategic play in an environment.
+This is because they lack any form of context on how it is changing i.e. they lack movement.
 If you think back to the example of Nokia, then its value chains have radically altered over time from a paper mill to telecommunications company.
 In order to understand the environment, we therefore need to capture this aspect of change and combine it with our value chain.
-
 
 The largest problem with creating an understanding of the context in which something operates is that this process of change and how things evolve cannot be measured over time.
 As uncomfortable as it is, you have to simply accept that you don’t have a crystal ball and hence you have to embrace the uncertainty of future change.
@@ -320,21 +295,14 @@ Mark on sections for genesis, custom built, product and commodity as shown in fi
 [caption="Figure 16: ",link=https://cdn-images-1.medium.com/max/1600/1*l8ttd7KYfIdkPi8B6DRN6g.jpeg]
 image::1_l8ttd7KYfIdkPi8B6DRN6g.jpeg[Figure 16 - Adding evolution to your value chain,900,600,align=center]
 
-Unless you’re extremely lucky then all the components are likely to be in the wrong stages of evolution.
-Hence start to move the components of the value chain to their relevant stage.
+Start to move the components of the value chain to their relevant stage.
 For each component the group should question how evolved it is?
-In practice the best way to do this is to examine its characteristics and ask: - +
+In practice the best way to do this is to examine its characteristics and ask:
 
-• How ubiquitous and well defined is the component?
-
-
-• Do all my competitors use such a component?
-
-
-• Is the component available as a product or a utility service?
-
-
-• Is this something new?
+* How ubiquitous and well defined is the component?
+* Do all my competitors use such a component?
+* Is the component available as a product or a utility service?
+* Is this something new?
 
 
 Be warned, this step is often the main cause of arguments in the group.
@@ -342,7 +310,6 @@ You will regularly come across components that parts of the group feel passionat
 They will declare it as unique despite the fact that all your competitors will have this.
 There is also the danger that you will describe the component by how you treat it rather than how it should be treated.
 Even today, in 2016, there are companies that custom build their own CRM (customer relationship management) system despite its near ubiquity and essential use in most industries.
-
 
 There are many causes for this, some of which are due to inertia and the component being a pet project and in other cases it is because the component is actually multiple subcomponents.
 In the latter case, you’ll often find that most of the subcomponents are commodity with maybe one or two that are genuinely novel.
@@ -357,7 +324,6 @@ Or is the reality that a user expects a tea shop to provide cake and it is commo
 You might market the cake as home-made but don’t confuse what you market something as with what it is.
 The tea shop up the road could just as easily buy mass produced cake, add some finishing flourishes to it and describe it as home-made.
 If it’s cheaper, just as tasty, more consistent and to the user an expected norm for a tea shop then you’ll be at a disadvantage.
-The same is true of building your own Thomas Thwaites toaster rather than buying a commodity version to provide toast.
 To help you in the process of challenge, I’ve added a cheat sheet in figure 17 for the characteristics of activities.
 How this was created will be discussed in later chapters but for now simply use this as a guide.
 Where arguments continue to rage then look to see if the component is in fact multiple subcomponents.
@@ -370,22 +336,14 @@ image::1_Hr-7aM2-IW34edpBtnKWQQ.jpeg[Figure 17 - The cheat sheet,900,600,align=c
 
 Don’t worry if some of the terms are confusing in the cheat sheet, just use what you can.
 Like Chess, mapping is a craft and you will get better with practice.
-Today, topographical intelligence in business is more about Babylonian clay tablet than ordinance survey maps for industries.
-The art is very much in the custom built stage of evolution (see the cheat sheet above).
 
-
-You should aim to complete an entire map of a line of business in a matter of hours though there is nothing wrong with spending longer in your first attempts in order to get used to the process.
-I’m afraid there is a big downside here.
-Mapping, like learning to play chess, is something that only you and your team can do.
 You will have to follow the path that I took when I was a CEO and learn to map.
 You can’t outsource mapping to someone else any more than you can outsource learning to play chess to a consultancy.
 Well, technically you can but you won’t be learning and you’ll just become dependent upon them, constantly asking for your next move.
 Which, to be honest, is what many of us have done but then if you’re happy with that, stop reading this book and just ask a consultancy for your strategy.
 If you’re not happy with that then be warned that the amount of value that you will get from mapping increases with the amount of work you put into repeatedly using it.
 
-
-It’s also worth noting that when adding practices, data and knowledge to your map then you can use the same cheat sheet for each stage of evolution i.e.
-data that is *modelled* (see figure 10) should be widespread, commonly understood, essential and believed to be well defined.
+It’s also worth noting that when adding practices, data and knowledge to your map then you can use the same cheat sheet for each stage of evolution i.e. data that is *modelled* (see figure 10) should be widespread, commonly understood, essential and believed to be well defined.
 It shares the same characteristics as commodity activities.
 Once you have placed the components in their relevant stage to the best of your ability, you now have a map, as per figure 18.
 Remember that this map was for an online photo service in 2005 and so the composition of components and their position will not be the same as they are today.
@@ -399,32 +357,5 @@ The map is hence fluid and constantly evolving.
 image::1_lfbIXuSF0KAlPcti3GFY5w.jpeg[Figure 18 - The map,900,600,align=center]
 
 The next thing to do is to share your map with others in your organisation and allow them to challenge you and ideally your group.
-This is exactly what I did with my colleague James Duncan (who was CIO of the company at the time).
-With help from James, I refined both the map and the concept, something which I owe him a great deal of thanks for.
-If there is a co-inventor of mapping, then it would be James.
-Our robust debates in the boardroom showed me that business and IT are not separate but we could discuss strategic gameplay together around a map.
-It’s a bit like the Army and the Air Force.
-They might have different capabilities and strengths but if we use a map to communicate then we can make all of this work together.
-
-
 I have found subsequently, this process of sharing not only refines the map but spreads ownership of it.
 You should also use this time to consider any unmet needs, any missing components and ask questions on whether you’re treating things in the right way?
-It’s often surprising to find how many companies are spending vast resources on building their own metaphorical Thomas Thwaites toasters when a commodity version is readily available.
-
-== The next step
-
-With a map in hand, we’re now ready to start exploring the strategy cycle and hopefully start learning some useful lessons.
-Well, at least that’s what I hoped for in 2005.
-In the next chapter, I intend to show you what I discovered.
-But before I do, I have a request to make of you.
-
-
-_Take a break, read this chapter again, pick a part of your business and have a go at mapping it.
-Simply follow the steps and use the cheat sheet.
-Ideally, grab a couple of other people that are deeply familiar with that business to help you and don’t spend too long on it.
-Keep it to a couple of hours, three to four at most._ +
-
-If within that time, you don’t feel you’re learning more about that business and the mapping isn’t raising questions on user needs and what’s involved then stop.
-You can recover your lost time by simply not reading any more chapters.
-Pick this book up, aim for the refuse bin and with a shout of “that was a complete waste” then let it fly.
-If instead you found the exercise interesting, then let us continue this journey together.

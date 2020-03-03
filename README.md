@@ -1,4 +1,5 @@
 # Welcome
+
 This is an edited and abridged version of Simon Wardley's "Wardley Maps" ascii doc. It's a [fork of andrewharmellaw/wardley-maps-book](https://github.com/andrewharmellaw/wardley-maps-book)  simply takes all his [medium posts](https://medium.com/wardleymaps) and joins them together for ease of reading.  
 
 # Who I am and why I am doing this
@@ -9,8 +10,8 @@ Since 2014 I have been working in industry.
 
 I'm attempting to reframe Simon Wardley's approach in two broad ways:
 
-1. Many of Simon's examples are embedded in software development, yet the "Wardley Maps" rationale is based on a purely business need. I feel the software driven metaphor dilutes the impact of the approach. This  
-2. approach terms of knowledge and maturity. 
+1. Many of Simon's examples are embedded in software development, yet the "Wardley Maps" rationale is based on a purely business need. I feel the software driven metaphor dilutes the impact of the approach.  
+2. I think the approach is a way of faceting the multidimensional nature of businesses (most notably in terms of knowledge and maturity). I want to expand on this and generalize it.  
 
 I have a long standing obsession with data quality. I also believe that the current focus on *Open Data* is an appropriate vehicle to drive improvements in data quality. The McKinsey Global Institute report [-@mckinsey_open_2013] which examined the economic impact of Open Data came to similar conclusions: whilst estimating that globally open data could be worth a minimum of $3 trillion annually there is a recognition that there are some challenges and opportunities particularly in terms of skills and quality.
 
@@ -45,7 +46,7 @@ To generate the PDF version of this book, you additionally need to install [asci
 
 Then you can run the following command in the base directory of this repository:
 
-    asciidoctor-pdf wardley-contextual-landscapes.adoc
+    cd /home/beckant/git_shares/OtherRepositories/wardley-landscapes; asciidoctor-pdf wardley-contextual-landscapes.adoc
 
 ## .MOBI (Kindle)
 To generate the .mobi version of this book you additionally need to install [Asciidoctor-EPUB3](https://asciidoctor.org/docs/asciidoctor-epub3/) and [kindlegen](https://rubygems.org/gems/kindlegen/versions/3.0.3) both via  Ruby gems - the instructions are in the linked pages.  The pre-requisite to run both of these is Ruby. You can then run the following command in the base directory of this repository:
