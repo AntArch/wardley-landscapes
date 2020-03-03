@@ -2,8 +2,8 @@
 
 summarise these:
 
-* https://medium.com/@swardley/from-hs2-to-china-and-back-again-6bce5764ea14[HS2 case study]
-* https://threadreaderapp.com/thread/1068822023126827010.html[tweet thread]
+* [HS2 case study](https://medium.com/@swardley/from-hs2-to-china-and-back-again-6bce5764ea14)
+* [tweet thread](https://threadreaderapp.com/thread/1068822023126827010.html)
 
 This is an edited and abridged version of Simon Wardley's "Wardley Maps" ascii doc. It's a [fork of andrewharmellaw/wardley-maps-book](https://github.com/andrewharmellaw/wardley-maps-book)  simply takes all his [medium posts](https://medium.com/wardleymaps) and joins them together for ease of reading.  
 
