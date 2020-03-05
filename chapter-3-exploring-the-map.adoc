@@ -216,6 +216,8 @@ As a rule of thumb: -
 The *uncharted* domain is associated with high production costs, high levels of uncertainty but potentially very high future opportunity.
 Being first is not always the best option due to the burden and risks of research and development.
 
+IMPORTANT: I kind of buy into these classifications. Each one espouses a different technique: - agile, lean, 6sigma. However, the uncharted area is where I would challenge _agile_. Where there is no prior art or knowledge then agile is probably the right technique. Short iterative cycles directed by timely feedback increases the sense of (positive) inertia and gives the sense that costs are being managed effectively. At this stage debt is unmeasurable as there is no knowledge about what is right so no undersatnding about the norm and divergence from it. The drive is to create a thing that works. It is the accumulation of debt (technical, data or conceptual debt) which introduces the inertia which militates against subsequent change. I would argue that this inertia is caused by the inability to embrace a paradigm shift. The organisation has generated a thing, they have (had) mastered the world, what do these upstarts know about the thing. They aren't even using the proper words to describe the thing. Clearly they know nothing. The insurgents have a more profound conceptual understanding of the thing. They have created a new paradigm in which the thing can be framed. The incumbent needs to embrace these concepts. This doesn't feel like an _agile_ problem. The organisation has to tackle two big issues: 1) the accumulation of debt (technical and data) and 2) embracing new core concepts which will have large social and technical disruption.
+
 The *transitional* domain is associated with reducing uncertainty, declining production costs, increasing volumes and highest profitability.
 However, whilst the environment has become more predictable, the future opportunity is also in decline as the act is becoming more widespread, well understood and well defined.
 So at the same time we reach the zenith of wealth creation the future is looking decidedly less rosy for the industry itself.
@@ -271,6 +273,8 @@ Both consumers and suppliers exhibit various forms of inertia due to past succes
 [#img-fig26-past-success-breeds-inertia]
 [caption="Figure 26: ",link=https://cdn-images-1.medium.com/max/1600/1*me-2KIVPHaqHQxPtSN36Ug.jpeg]
 image::1_me-2KIVPHaqHQxPtSN36Ug.jpeg[Figure 26 - Past success breeds inertia,900,600,align=center]
+
+TIP: see the 'important' point above.
 
 It is almost always new entrants who are not encumbered by past success that initiate the change.
 Whilst VMware CEO Pat Gelsinger might state that Amazon as a “company that sells books” shouldn’t beat VMware and its partners in infrastructure provision, it is precisely because Amazon was not encumbered by an existing business model that it could so easily industrialise the computing infrastructure space.
@@ -334,8 +338,7 @@ I honestly expected it was going to be Google but it was Amazon that moved quick
 inertia) of compute becoming a utility.
 That inertia would exist in both suppliers of hardware and rental services along with their customers.
 Regardless, that component was going to evolve and companies would be under pressure to adopt.
-The first movers would likely consist of unencumbered companies e.g.
-startups.
+The first movers would likely consist of unencumbered companies e.g. startups.
 
 *Point 4* — What was going to happen to compute was going to happen to coding platforms.
 This was another area that there was considerable revenue and profitability to attack.
@@ -356,9 +359,8 @@ Had you been in that room, you might have disagreed with how we had positioned t
 Our assumptions were visibly on the map not locked away in our minds.
 We had a common language through which we could use to discuss the future and collaborate over.
 
-It felt exciting but also nerve wrecking.
 We were talking about fundamental changes to the computing industry starring us in the face with what seemed like blinding obviousness.
-I had a visual means of demonstrating what Nicholas Carr had described in his exceptional 2003 paper on “Does IT Matter”.
+I had a visual means of demonstrating what Nicholas Carr had described in his exceptional 2003 paper on https://www.amazon.co.uk/s?k=%E2%80%9CDoes+IT+Matter%E2%80%9D+carr&ref=nb_sb_noss[“Does IT Matter”].
 As it happens, I was a huge fan of that paper and his subsequent prophetic book and had got into many any argument over it in those years.
 Most of my peers when I mentioned what I thought were amazing ideas had roundly ridiculed them.
 Compute it seemed was considered a relationship business, it was all about trust and I didn’t know what I was talking about.
@@ -373,12 +375,3 @@ I could easily be deluding myself and it certainly felt that I was going against
 But at the very least, I could discuss it and have those conversations.
 Undaunted, I decided to carry on.
 My attention now turned to that next factor which is doctrine.
-
-== An exercise for the reader
-
-In xref:chapter-2-finding-a-path[chapter 2] I asked you to have a go at mapping something.
-Well, take that map, look at the common climatic patterns described in figure 27 and have a go at applying them to your map.
-See what you can anticipate.
-It helps to get others involved as mapping is fundamentally a communication and learning tool and the best results come from collaborating with others.
-If you’re mapping an aspect of your company then try and find someone with a different skill-set to yourself i.e.
-if you’re in finance, go grab someone from IT or operations or marketing.
