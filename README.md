@@ -4,6 +4,10 @@ summarise these:
 
 * [HS2 case study](https://medium.com/@swardley/from-hs2-to-china-and-back-again-6bce5764ea14)
 * [tweet thread](https://threadreaderapp.com/thread/1068822023126827010.html)
+* [Pioneers, Town Planners and those missing Settlers](https://blog.gardeviance.org/2011/02/pioneers-town-planners-and-those.html?m=1)
+* [What do Wardley maps really map? A settler writes](https://blog.mattedgar.com/2017/08/13/what-do-wardley-maps-really-map-a-settler-writes/)
+	* The use of the term “evolution” bothers me. It carries strong implication of an inevitable unidirectional process. Only with the benefit of hindsight can evolution be said to be a straight line, and that’s just a trick of perspective.
+	* [All maps are socially constructed](https://en.wikipedia.org/wiki/Social_construction_of_technology). Wardley maps are therefore an artefact of social science, not (despite the Darwinian metaphor) a life science. The x-axis shows not evolution but level of consensus.
 
 This is an edited and abridged version of Simon Wardley's "Wardley Maps" ascii doc. It's a [fork of andrewharmellaw/wardley-maps-book](https://github.com/andrewharmellaw/wardley-maps-book)  simply takes all his [medium posts](https://medium.com/wardleymaps) and joins them together for ease of reading.  
 
