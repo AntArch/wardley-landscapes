@@ -182,6 +182,9 @@ where we are today) but also highlighting the past (where we were) and adding th
 [caption="Figure 23: ",link=https://cdn-images-1.medium.com/max/1600/1*6Nqdbq9j5VUzk-3BwXVXUg.jpeg]
 image::1_6Nqdbq9j5VUzk-3BwXVXUg.jpeg[Figure 23 - Efficiency enables innovation,900,600,align=center]
 
+IMPORTANT: I think we need to start playing around with the axes here. The Y axis ends up being a bit redundant for some visualizations (which makes the map metaphor weak). For a problem I'm working on we have a tension between analogue and digitial thinking. Whilst we have a digital production line the data held in the back-end databases is analogue in nature (a structured syntax and grammar). Such a product is fit for a limited number of purposes due to the highly structured and inflexible approach to production. This brittle process can be easily disrupted by changes outside our control (landscape/climate). Ideally we want to move to a richer data product which is mnore resiliant. There can be continuity in traditional production as well as flexibility to pivot to new things. To articulate this landscape we might want to look at the correlations between data richness on the Y-axis and Evolution/Efficiency on the X-axis. Hence, we can be very good (efficient) at producing a data poor product. and we will be less good at producing a data rich product. As this evolves .....
+
+
 In the above map, I’ve reduced the actual number of the components for the reason of simplicity.
 Obviously not everything becomes a component of something else but mechanical, electrical and even IT systems commonly do.
 IT is no exception to the effects of evolution and componentisation.
