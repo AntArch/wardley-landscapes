@@ -1,5 +1,30 @@
 [#chapter-1-on-being-lost]
 
+= Notes
+
+Note (from page 230): This impacts everything from activities (what we do), practices (how we do something), data (how we measure something) to knowledge (how we understand something). 
+
+Contrary to popular belief, it’s not a lack of innovation that harmed companies such as Blockbuster and Kodak but instead inertia to change created by past success. Both these companies helped develop the future industries but suffered at the hands of their past business models.
+
+Page 244: This is good. A semantic model brings in 'high ecological resistence' as change is easy.
+
+Also look at https://miro.com/blog/wardley-maps-whiteboard-canvas/[Summary of mapping and use on Miro]
+
+
+== https://fs.blog/2012/10/the-red-queen-effect/[Red Queen effect]
+
+The Red Queen Effect means we can’t be complacent or we’ll fall behind. To survive another day we have to run very fast and hard, we need to co-evolve with the systems we interact with.
+
+If all animals evolved at the same rate, there would be no change in the relative interactions between species. However, not all animals evolve at the same rate. As Darwin observed, some are more “responsive to change” than others. Species that are more responsive to change can gain a relative advantage over the ones they compete with and increase the odds of survival. In the short run, these small gains don’t make much of a difference, but as generations pass the advantage can compound. A compounding advantage… that sounds nice.
+
+Everyone from Entrepreneurs and Fortune 500 CEOs to best-selling authors and middle managers are embedded with their own Red Queen. Rather than run harder, wouldn’t it be nice to run smarter?
+
+Here are just three of the ways we try to avoid the Red Queen.
+
+. We invest significantly in new product development and content. Our courses, evolve quickly incorporating student-tested concepts that work and reducing the importance of the ones that don’t. Another example, our learning community, adds real-world value to people who make decisions by discussing time-tested principles. This is not a popular path as it’s incredibly expensive in time and money. Standing still, however, is more expensive. We’re not in the business of Edutainment but rather providing better outcomes. If we fail to keep getting better, we won’t exist.
+. We try to spend our limited mental resources working on things that won’t change next week. We call these mental models and the ones we want to focus on are the ones that stand the test of time.
+. We recognize how the world works and not how we want it to work. When the world isn’t working the way we’d like it to, it’s easy to say the world is wrong and sit back to see what happens. You know what happens right? You fall behind and it’s even harder to catch up. It’s like you’re on a plane. When you’re flying into the wind you have to work very hard. When you’re flying with the wind at your back, you need to expend less energy and you get there earlier. Recognizing reality and adapting your behavior creates a tailwind.
+
 = Chapter 1 - All models are wrong but some are useful 
 
 Originally this chapter was called 'On being lost'. 

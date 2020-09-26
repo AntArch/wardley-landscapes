@@ -1,4 +1,4 @@
-= Wardley [.line-through]#Maps# Contextual Landscapes
+= Wardley [.line-through]#Maps# Contextual Landscapes: Navigating business landscapes
 Anthony Beck & Simon Wardley
 2020-01-31
 :updated: 2020-01-31

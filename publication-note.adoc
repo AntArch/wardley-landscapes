@@ -1,7 +1,7 @@
 [#publication-note]
 = Publication Note
 
-This book is based on the work of Simon Wardley. It's a https://github.com/andrewharmellaw/wardley-maps-book[fork of the andrewharmellaw/wardley-maps-book github repository] created by https://github.com/andrewharmellaw[Andrew Harmel-Law]. That repository collated http://medium.com/wardleymaps[Simon's Medium.com posts on Wardley Maps]. 
+This book is based on the work of Simon Wardley. It's a https://github.com/andrewharmellaw/wardley-maps-book[fork of the andrewharmellaw/wardley-maps-book github repository] created by https://github.com/andrewharmellaw[Andrew Harmel-Law]. That repository collated http://medium.com/wardleymaps[Simon's Medium.com posts on Wardley Maps]. I've yet to amend any of the material described in some of the supporting markdown docs.
 
 My intent is to heavily edit this collection so it gets to the essence of Simon's excellent work in a more succinct manner (all released under a https://creativecommons.org/licenses/by-sa/4.0/[Creative Commons Attribution-ShareAlike-4.0-International licence]). I then intend to extend this work to fit into a knowledge engineering remit  (all released under a https://creativecommons.org/licenses/by/4.0/[Creative Commons Attribution-4.0-International licence]). I do not like the share-a-like restriction. 
 

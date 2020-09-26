@@ -42,7 +42,7 @@ Mapping is not the answer, it’s simply a guide. Hence don’t try to create th
 
 *_Where before why_* +
 
-When thinking about strategy, the first thing you need to do is identify *where*you can attack before *why* here over there. It’ all about position (y-axis) and movement (x-axis). +
+When thinking about strategy, the first thing you need to do is identify *where* you can attack before *why* here over there. It’ all about position (y-axis) and movement (x-axis). +
 
 *_Iterative and continuous learning_* +
 

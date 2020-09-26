@@ -2,9 +2,9 @@
 ifndef::imagesdir[:imagesdir: images]
 //cd /home/beckant/git_shares/OtherRepositories/wardley-landscapes; asciidoctor-pdf chapter-2-finding-a-path.adoc
 
-= Chapter 2 - Finding a path
+= Chapter 2 - Navigating change
 
-IMPORTANT: From here on in I use a heavy red pen!
+IMPORTANT: this was originally called Finding a path: From here on in I use a heavy red pen!
 
 The problem I had was how do I map a business?
 Unlike a board game such as chess with its turned based moves, when you consider a business it is a living thing.
